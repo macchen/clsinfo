@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "cls_info.pbt";
+@end;
+DefaultTarget "cls_info.pbt";
+DefaultRemoteTarget "cls_info.pbt";
